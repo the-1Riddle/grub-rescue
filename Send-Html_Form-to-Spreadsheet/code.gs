@@ -74,7 +74,7 @@ function doPost(e) {
             <h2>New Form Submission Received</h2>
         </div>
         <div class="email-body">
-            <p> you have a new submission <p>
+            <p> you have a new submission </p>
             <!-- you can also include fields like as follows -->
             <!--ul>
                 <li><strong>example Name:</strong> ${data["example-name"]}</li>

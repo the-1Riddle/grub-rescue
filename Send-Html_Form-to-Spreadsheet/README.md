@@ -103,7 +103,7 @@ function doPost(e) {
 }
 ```
 
-#### The codes functionality
+#### The code's functionality
 
   1. doPost(e), This method is used in Web Apps when we want to send data from  the form through the post method then the doPost function is called by Apps Script.
   
@@ -186,4 +186,4 @@ By following this guide, you’ve successfully integrated an HTML form with Goog
 
 The flexibility of Google Apps Script allows for further customization, such as sending email notifications, adding data validation, or even triggering workflows based on submissions. With this setup, you're equipped to handle basic data collection tasks efficiently.
 
-found this helpful? be sure to give it a star, you can also submit an [issue](https://github.com/the-1Riddle/grub-rescue/issues) if you got a bug or with a PR if you would like to contribute something.
+Found this helpful? Be sure to give it a star. You can also submit an [issue](https://github.com/the-1Riddle/grub-rescue/issues) if you encounter a bug or a PR if you'd like to contribute.
