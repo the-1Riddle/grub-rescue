@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: "How to fix 'no such partition, entering rescue mode..' error"
-description: "Solving grub rescue"
+title: "Solving grub rescue and more"
+description: "the1Riddles documentary"
 permalinks: pretty
 lang: en
 
